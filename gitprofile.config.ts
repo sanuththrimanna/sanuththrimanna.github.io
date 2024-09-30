@@ -96,7 +96,7 @@ const CONFIG = {
   },
   skills: [
     'Astronomy',
-    'imprompu speech',
+    'Impromptu speech',
     'Event management',
     'Teaching',
     'Archery',
